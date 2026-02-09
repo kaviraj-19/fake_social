@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SentinAI: Social Guard",
+  "description": "An enterprise-grade AI platform for detecting fake accounts, coordinated manipulation, and malicious cross-platform behavioral signatures.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
